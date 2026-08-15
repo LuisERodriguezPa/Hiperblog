@@ -1,4 +1,2 @@
 hola mundo
-esta es la historia de Luis rodriguez
-Hoy hablaremos de su historia
-su edad es 30 años
+Cambiando una versión de la historia
