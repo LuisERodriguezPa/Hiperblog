@@ -24,3 +24,7 @@ body{
     font-size: 1rem;
     font-weight: normal;
 }
+footer p{
+    background-color:dodgerblue;
+    color:#fff;
+}
