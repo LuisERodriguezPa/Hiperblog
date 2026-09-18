@@ -1,2 +1,2 @@
 # Hiperblog
-Un blog increíble para el curos de Git y Github 
+Un blog increíble para el curso de Git y Github 
